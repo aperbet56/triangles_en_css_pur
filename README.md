@@ -1,5 +1,7 @@
 ## TRIANGLES EN CSS3 🔺
 
+![Design preview for the project](./img/preview.png)
+
 ## Le challenge
 
 Création d'un carré contenant quatre triangles de couleurs différentes en HTML5 et CSS3. Pour se faire, plusieurs étapes sont nécessaires :
