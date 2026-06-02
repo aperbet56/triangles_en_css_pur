@@ -22,7 +22,7 @@ Ainsi, sans largeur ni hauteur, ces angles à 45 degrés se rejoignent au centre
 
 ## Démonstration
 
-Lien vers le projet :
+Lien vers le projet : https://aperbet56.github.io/triangles_en_css_pur/
 
 ## Projet développé avec
 
